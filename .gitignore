@@ -1,0 +1,5 @@
+SNEWPY_models/
+snowglobes/
+
+# Generated figures
+*.pdf
